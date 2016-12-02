@@ -1,0 +1,29 @@
+.board {
+	width: 70%;
+	margin: 0 auto;
+}
+
+
+.blue {
+	background: lightblue;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin: 5px;
+}
+
+.red {
+	background: red;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin: 5px;
+}
+
+.grey {
+	background: grey;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin: 5px;
+}
